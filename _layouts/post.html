@@ -10,7 +10,8 @@ layout: default
   </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+
+    {% raw %}{{ page.date | date: "%d" | plus:'0' }} {{ page.date | date: "%B %Y" }}{% endraw %}
   </div>
 
   {% include disqus.html %}
