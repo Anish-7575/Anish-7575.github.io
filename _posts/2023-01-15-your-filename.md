@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Life
 
@@ -35,4 +35,3 @@ This idea of closure is quite similar to [perfectionism](https://www.goodreads.c
 Nothing in life can be objectively perfect. No one has ever lived a perfect life. It's a curse to live a perfect life for perfection is one's perception of ideal. So, there is no room for the **_extraordinary_** - either good or bad.
 
 Another reason for exiting social media is to do with authenticity. I'm quite an enthusiastic guy. Anything I pursue, I go head over heels. So, social media isn't an exception. One thing I've observed is my obsession with the percieved notions of myself. The urge to be liked and fitted in. This is so unlike me. I don't want to live for others. But on the other hand, in my experience when I look back I only remember the times I've spent with others. Why is this? Is being able to recall a good measurement for a time well spent? Can we have a great time and not remember anything at all?
-
